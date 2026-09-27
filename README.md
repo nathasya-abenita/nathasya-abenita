@@ -2,7 +2,7 @@
 
 🌏 I'm a mathematically-trained climate student. See below for my research interest and portfolio!
 
-✏️ Outside of my study and research, I enjoy journalling, drawing, and blogging (visit my [website](nathas-archive.com)!)
+✏️ Outside of my study and research, I enjoy journalling, drawing, and blogging (visit my [website](https://nathas-archive.com/)!)
 
 💻 I mainly use Python programming language, but I spent intensive time using Fortran, R, and MATLAB before.
 
